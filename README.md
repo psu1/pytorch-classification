@@ -1,4 +1,4 @@
-# This repo are build upon [bearpaw]'s project(https://github.com/bearpaw/pytorch-classification)
+# This repo are build upon [project](https://github.com/bearpaw/pytorch-classification).
 
 # pytorch-classification
 Classification on CIFAR-10/100 and ImageNet with PyTorch.
